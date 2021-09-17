@@ -1,16 +1,48 @@
-### Hi there 👋
+# Hi I'm akrck02 👋
+Hi I'm a 20 year old software developer. I like puzzles, video games and software architecture.
+From time to time I create projects to make development easier or solve problems. 
 
-<!--
-**akrck02/akrck02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Project documentations are uploaded to my website.
 
-Here are some ideas to get you started:
+> https://akrck02.com/#/projects/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new programming languages and technologies while working on projects. 
+
+## Currently 
+These are the technologies I am working on right now:
+
+> Nodejs
+> <br>Deno
+> <br>Sqlite
+
+These are the languages I am learning right now:
+
+> Typescript
+> <br>Rust
+> <br>Python
+
+## Some stats
+Here you have some stats about my activity in Github so you can get to know me a little bit better!
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akrck02&show_icons=true&locale=en&layout=compact" alt="akrck02" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akrck02&show_icons=true&locale=en" alt="akrck02" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akrck02&" alt="tanwi1234" />
+</p>
+
+## Open source, happy code.
+I really love open source, I think it allows to learn and improve in development in an organic way and helps to form communities.
+That's why most of my projects are licensed as open source. Feel free to contribute to the repositories if you find any of them interesting! 
+
+## Support 
+Doing open source often means spending time, effort and money to maintain and develop repositories full of libraries, apps, programs, APIs and other software.
+That's why any support that can be received from the community, both intellectual and monetary, is appreciated.
+
+I leave here places where you can support my work if you wish, thank you very much! :)
+<a href="https://www.patreon.com/akrck02"><img src='patreon.png'></a>
