@@ -25,15 +25,15 @@ These are the languages I am learning right now:
 Here you have some stats about my activity in Github so you can get to know me a little bit better!
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akrck02&show_icons=true&locale=en&layout=compact" alt="akrck02" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?langs_count=100&exclude_repo=AppIgniter&username=akrck02&show_icons=true&locale=en&" alt="akrck02" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akrck02&show_icons=true&locale=en" alt="akrck02" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?count_private=true&username=akrck02&show_icons=true&locale=en" alt="akrck02" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akrck02&" alt="tanwi1234" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akrck02&" alt="akrck02" />
 </p>
 
 ## Open source, happy code.
