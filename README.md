@@ -36,6 +36,10 @@ Here you have some stats about my activity in Github so you can get to know me a
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akrck02&" alt="akrck02" />
 </p>
 
+
+<br>
+
+
 ## Open source, happy code.
 I really love open source, I think it allows to learn and improve in development in an organic way and helps to form communities.
 That's why most of my projects are licensed as open source. Feel free to contribute to the repositories if you find any of them interesting! 
