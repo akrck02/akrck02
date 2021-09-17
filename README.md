@@ -45,4 +45,5 @@ Doing open source often means spending time, effort and money to maintain and de
 That's why any support that can be received from the community, both intellectual and monetary, is appreciated.
 
 I leave here places where you can support my work if you wish, thank you very much! :)
-<a href="https://www.patreon.com/akrck02"><img src='patreon.png'></a>
+<br><br>
+<a href="https://www.patreon.com/akrck02"><img style=" width:250px;" src='patreon.png'></a>
