@@ -25,7 +25,7 @@ These are the languages I am learning right now:
 Here you have some stats about my activity in Github so you can get to know me a little bit better!
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?count_private=true&langs_count=100&exclude_repo=AppIgniter&username=akrck02&show_icons=true&locale=en&" alt="akrck02" />
+  <img align="left" src="https://readme-stats-olive.vercel.app/api/top-langs?count_private=true&langs_count=100&exclude_repo=AppIgniter&username=akrck02&show_icons=true&locale=en&" alt="akrck02" />
 </p>
 
 <p>&nbsp;
