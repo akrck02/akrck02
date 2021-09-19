@@ -29,7 +29,7 @@ Here you have some stats about my activity in Github so you can get to know me a
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?count_private=true&username=akrck02&show_icons=true&locale=en" alt="akrck02" />
+  <img align="center" src="https://readme-stats-6httj0m7o-akrck02.vercel.app/api?count_private=true&username=akrck02&show_icons=true&locale=en" alt="akrck02" />
 </p>
 
 <p>
