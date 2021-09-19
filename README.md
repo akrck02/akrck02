@@ -31,10 +31,7 @@ Here you have some stats about my activity in Github so you can get to know me a
 <p>&nbsp;
   <img align="center" src="https://readme-stats-olive.vercel.app/api?count_private=true&username=akrck02&show_icons=true&locale=en" alt="akrck02" />
 </p>
-
-<br><br><br><br><br><br><br><br><br>
-
-
+<br><br>
 ## Open source, happy code.
 I really love open source, I think it allows to learn and improve in development in an organic way and helps to form communities.
 That's why most of my projects are licensed as open source. Feel free to contribute to the repositories if you find any of them interesting! 
