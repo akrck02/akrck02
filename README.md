@@ -36,7 +36,6 @@ Here you have some stats about my activity in Github so you can get to know me a
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akrck02&count_private=true" alt="akrck02" />
 </p>
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?akrck02" frameborder="0"></iframe>
 
 <br>
 
