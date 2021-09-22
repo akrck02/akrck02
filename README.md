@@ -41,4 +41,4 @@ That's why any support that can be received from the community, both intellectua
 
 I leave here places where you can support my work if you wish, thank you very much! :)
 <br><br>
-<a href="https://www.patreon.com/akrck02"><img style=" width:250px;" src='patreon.png'></a>
+<a href="https://www.patreon.com/akrck02"><img style=" width:25px;" src='patreon.png'></a>
