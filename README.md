@@ -11,13 +11,11 @@ I enjoy learning new programming languages and technologies while working on pro
 ## Currently 
 These are the technologies I am working on right now:
 
-> Nodejs
 > <br>Deno
 > <br>Sqlite
 
 These are the languages I am learning right now:
 
-> Typescript
 > <br>Rust
 > <br>Python
 
