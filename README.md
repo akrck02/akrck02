@@ -11,12 +11,12 @@ I enjoy learning new programming languages and technologies while working on pro
 ## Currently 
 These are the technologies I am working on right now:
 
-> <br>Deno
+> Deno
 > <br>Sqlite
 
 These are the languages I am learning right now:
 
-> <br>Rust
+> Rust
 > <br>Python
 
 ## Some stats
