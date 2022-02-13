@@ -17,7 +17,7 @@ These are the technologies I am working on right now:
 
 These are the languages I am learning right now:
 
-> Rust
+> Go
 > <br>Python
 
 ## Some stats
