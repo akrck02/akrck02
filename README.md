@@ -45,7 +45,7 @@ I leave here places where you can support my work if you wish, thank you very mu
 ## Current project status
 
 
-| Project    | status |
+| Project    | Status |
 |------------|--------|
 | GTD-LIB-TS | ![GTD-LIB-TS](https://github.com/akrck02/GTD-LIB-TS/actions/workflows/build-and-test.yml/badge.svg) | 
 
