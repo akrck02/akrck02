@@ -43,7 +43,7 @@ I leave here places where you can support my work if you wish, thank you very mu
 <a href="https://www.patreon.com/akrck02"><img style="width:2rem;" src='patreon.png'></a>
 
 ## Current project status
-
+Here are some workflows integrated with github actions for testing, building and compiling:
 
 | Project    | Status |
 |------------|--------|
