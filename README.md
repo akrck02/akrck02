@@ -4,7 +4,7 @@ From time to time I create projects to make development easier or solve problems
 
 Project documentations are uploaded to my website.
 
-> https://akrck02.com/#/code/
+> https://akrck02.github.io/#/code/
 
 I enjoy learning new programming languages and technologies while working on projects. 
 
