@@ -40,4 +40,12 @@ That's why any support that can be received from the community, both intellectua
 
 I leave here places where you can support my work if you wish, thank you very much! :)
 <br><br>
-<a href="https://www.patreon.com/akrck02"><img style=" width:25px;" src='patreon.png'></a>
+<a href="https://www.patreon.com/akrck02"><img style="width:2rem;" src='patreon.png'></a>
+
+## Current project status
+
+
+| Project    | status |
+|------------|--------|
+| GTD-LIB-TS | ![GTD-LIB-TS](https://github.com/akrck02/GTD-LIB-TS/actions/workflows/build-and-test.yml/badge.svg) | 
+
