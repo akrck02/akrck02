@@ -47,5 +47,6 @@ Here are some workflows integrated with github actions for testing, building and
 
 | Project    | Status |
 |------------|--------|
+| Valhalla | ![Valhalla](https://github.com/akrck02/Valhalla/actions/workflows/release-stable.yml/badge.svg) | 
 | GTD-LIB-TS | ![GTD-LIB-TS](https://github.com/akrck02/GTD-LIB-TS/actions/workflows/build-and-test.yml/badge.svg) | 
 
