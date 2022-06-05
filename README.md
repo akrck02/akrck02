@@ -48,6 +48,8 @@ Here are some workflows integrated with github actions for testing, building and
 | Project    | Status |
 |------------|--------|
 | Valhalla | ![Valhalla](https://github.com/akrck02/Valhalla/actions/workflows/release-stable.yml/badge.svg) | 
+| Valhalla-sync | ![Valhalla-sync](https://github.com/akrck02/Valhalla-sync/actions/workflows/build_and_test.yml/badge.svg) |
+| Valhalla-db-core | ![Valhalla-db-core](https://github.com/akrck02/Valhalla-db-core/actions/workflows/deploy.yml/badge.svg) |
 | BubbleUI | ![BubbleUI](https://github.com/akrck02/Bubble-UI/actions/workflows/build_and_release.yml/badge.svg) |
 | GTD-LIB-TS | ![GTD-LIB-TS](https://github.com/akrck02/GTD-LIB-TS/actions/workflows/build-and-test.yml/badge.svg) |
 | Akrck02.github.io | ![Akrck02.github.io](https://github.com/akrck02/Akrck02.github.io/actions/workflows/publish_gh_pages.yml/badge.svg) |
