@@ -11,13 +11,14 @@ I enjoy learning new programming languages and technologies while working on pro
 ## Currently 
 These are the technologies I am working on right now:
 
-> Nodejs
-> <br>Sqlite
+> Arduino
+> <br>Deno
 > <br>Electron
 
 These are the languages I am learning right now:
 
 > Go
+> <br>C++
 > <br>Python
 
 ## Some stats
