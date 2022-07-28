@@ -43,6 +43,18 @@ I leave here places where you can support my work if you wish, thank you very mu
 <br><br>
 <a href="https://www.patreon.com/akrck02"><img style="width:2rem; max-width: 2rem;" src='patreon.png'></a>
 
+## Hardware
+> 🖥️ | Custom build / Ryzen 7 3700x 4.2GHz / 32GB DDR4 3200MHz / Radeon 6700 10GB
+>
+>💻 | Msi Modern 14 / I7 10510U 3.9GHz / 16GB DDR4 2666MHz / Nvidia Mx250 2GB
+>
+>🎧 | Sony WH-CH700N
+>
+>⌨️ | Varmilo moonlight va88m (Cherry Silent red)
+>
+>🖱️ | Logitech MX Master 2s
+
+
 ## Current project status
 Here are some workflows integrated with github actions for testing, building and compiling:
 
