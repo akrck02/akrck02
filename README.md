@@ -1,10 +1,10 @@
 # Hi I'm akrck02 👋
-Hi I'm a 21 year old software developer. I like puzzles, video games and software architecture.
+Hi I'm a 22 year old software developer. I like puzzles, video games and software architecture.
 From time to time I create projects to make development easier or solve problems. 
 
 Project documentations are uploaded to my website.
 
-> https://akrck02.github.io/#/software/
+> https://akrck02.org/#/software/
 
 I enjoy learning new programming languages and technologies while working on projects. 
 
