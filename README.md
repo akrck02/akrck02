@@ -11,15 +11,13 @@ I enjoy learning new programming languages and technologies while working on pro
 ## Currently 
 These are the technologies I am working on right now:
 
-> Arduino
-> <br>Deno
-> <br>Electron
+> Godot Engine
+> <br>Spring boot
 
 These are the languages I am learning right now:
 
 > Go
-> <br>C++
-> <br>Python
+> <br>GDscript
 
 ## Some stats
 Here you have some stats about my activity in Github so you can get to know me a little bit better!
