@@ -1,5 +1,5 @@
 # Hi I'm akrck02 👋
-Hi I'm a 22 year old software developer. I like puzzles, video games and software architecture.
+Hi I'm a 23 year old software developer. I like puzzles, video games and software architecture.
 From time to time I create projects to make development easier or solve problems. 
 
 Project documentations are uploaded to my website.
@@ -42,9 +42,11 @@ I leave here places where you can support my work if you wish, thank you very mu
 <a href="https://www.patreon.com/akrck02"><img style="width:2rem; max-width: 2rem;" src='patreon.png'></a>
 
 ## Hardware
-> 🖥️ | Custom build / Ryzen 7 3700x 4.2GHz / 32GB DDR4 3200MHz / Radeon RX6700 10GB
+>🖥️ | Desktop - Custom build / Ryzen 7 3700x 4.2GHz / 32GB DDR4 3200MHz / Radeon RX6700 10GB
 >
 >💻 | Msi Modern 14 / I7 10510U 3.9GHz / 16GB DDR4 2666MHz / Nvidia Mx250 2GB
+>
+>🖥️ | Server - Custom build / Ryzen 5 5600G 4.4GHz / 16GB DDR4 3200MHz
 >
 >🎧 | Sony WH-CH700N
 >
