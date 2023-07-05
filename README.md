@@ -28,6 +28,8 @@ Here you have some stats about my activity in Github so you can get to know me a
     <td><a><img align="center" src="https://readme-stats-olive.vercel.app/api?count_private=true&username=akrck02&show_icons=true&locale=en&hide_border=true" alt="akrck02" /></a></td>
   </tr>
 </table>
+
+<image src="github-metrics.svg ">
   
 ## Open source, happy code.
 I really love open source, I think it allows to learn and improve in development in an organic way and helps to form communities.
