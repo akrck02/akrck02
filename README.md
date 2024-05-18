@@ -51,11 +51,11 @@ I leave here places where you can support my work if you wish, thank you very mu
 ## Hardware
 >🖥️ | Desktop - Custom build / Ryzen 7 3700x 4.2GHz / 32GB DDR4 3200MHz / Radeon RX6700 10GB
 >
->💻 | Msi Modern 14 / I7 10510U 3.9GHz / 16GB DDR4 2666MHz / Nvidia Mx250 2GB
+>💻 | Slimbook executive 16 / I7 13700H 5GHz / 32GB DDR5 5200MT/s / Nvidia RTX 4060 8GB
 >
 >🖥️ | Server - Custom build / Ryzen 5 5600G 4.4GHz / 16GB DDR4 3200MHz
 >
->🎧 | Sony WH-CH700N
+>🎧 | Sony WH-1000XM4
 >
 >⌨️ | Varmilo moonlight va88m (Cherry Silent red)
 >
