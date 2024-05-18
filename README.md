@@ -42,11 +42,7 @@ That's why most of my projects are licensed as open source. Feel free to contrib
 
 ## Support 
 Doing open source often means spending time, effort and money to maintain and develop repositories full of libraries, apps, programs, APIs and other software.
-That's why any support that can be received from the community, both intellectual and monetary, is appreciated.
-
-I leave here places where you can support my work if you wish, thank you very much! :)
-<br><br>
-<a href="https://www.patreon.com/akrck02"><img style="width:2rem; max-width: 2rem;" src='patreon.png'></a>
+That's why any support that can be received from the community is appreciated.
 
 ## Hardware
 >🖥️ | Desktop - Custom build / Ryzen 7 3700x 4.2GHz / 32GB DDR4 3200MHz / Radeon RX6700 10GB
