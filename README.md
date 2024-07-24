@@ -58,6 +58,8 @@ Here are some workflows integrated with github actions for testing, building and
 | Valhalla core dal | [![building](https://github.com/akrck02/valhalla-core-dal/actions/workflows/publish_version.yaml/badge.svg)](https://github.com/akrck02/valhalla-core-dal/actions/workflows/publish_version.yaml)|
 | Valhalla core sdk | [![building](https://github.com/akrck02/valhalla-core-sdk/actions/workflows/publish_version.yaml/badge.svg)](https://github.com/akrck02/valhalla-core-sdk/actions/workflows/publish_version.yaml)|
 | Valhalla api common | [![building](https://github.com/akrck02/valhalla-api-common/actions/workflows/publish_version.yaml/badge.svg)](https://github.com/akrck02/valhalla-api-common/actions/workflows/publish_version.yaml)|
-| BubbleUI | ![BubbleUI](https://github.com/akrck02/Bubble-UI/actions/workflows/build_and_release.yml/badge.svg) |
+| Valhalla user api | [![building](https://github.com/akrck02/valhalla-user-api/actions/workflows/publish_version.yaml/badge.svg)](https://github.com/akrck02/valhalla-user-api/actions/workflows/publish_version.yaml)|
+| Valhalla project api | [![building](https://github.com/akrck02/valhalla-project-api/actions/workflows/publish_version.yaml/badge.svg)](https://github.com/akrck02/valhalla-project-api/actions/workflows/publish_version.yaml)|
+| Bubble UI | ![BubbleUI](https://github.com/akrck02/Bubble-UI/actions/workflows/build_and_release.yml/badge.svg) |
 
 
