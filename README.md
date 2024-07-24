@@ -55,7 +55,8 @@ Here are some workflows integrated with github actions for testing, building and
 | Project    | Status |
 |------------|--------|
 | Valhalla | ![Valhalla](https://github.com/akrck02/Valhalla/actions/workflows/release-stable.yml/badge.svg) | 
-| Valhalla-core-dal | [![building](https://github.com/akrck02/valhalla-core-dal/actions/workflows/publish_version.yaml/badge.svg)](https://github.com/akrck02/Valhalla-core/actions/workflows/publish_version.yaml)|
+| Valhalla-core-dal | [![building](https://github.com/akrck02/valhalla-core-dal/actions/workflows/publish_version.yaml/badge.svg)](https://github.com/akrck02/valhalla-core-dal/actions/workflows/publish_version.yaml)|
+| Valhalla-core-sdk | [![building](https://github.com/akrck02/valhalla-core-sdk/actions/workflows/publish_version.yaml/badge.svg)](https://github.com/akrck02/valhalla-core-sdk/actions/workflows/publish_version.yaml)|
 | BubbleUI | ![BubbleUI](https://github.com/akrck02/Bubble-UI/actions/workflows/build_and_release.yml/badge.svg) |
 
 
