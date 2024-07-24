@@ -24,14 +24,6 @@ These are the languages I am learning right now:
 ## Some stats
 Here you have some stats about my activity in Github so you can get to know me a little bit better!
 
-<table>
-<tr>
-    <td><a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?&layout=compact&count_private=true&langs_count=100&exclude_repo=readme-stats,CodeIgniter&username=akrck02&show_icons=true&locale=en&title_color=202020&hide_border=true" alt="akrck02" /></a></td>
-    <td><a><img align="center" src="https://github-readme-stats.vercel.app/api?count_private=true&username=akrck02&show_icons=true&locale=en&hide_border=true" alt="akrck02" /></a></td>
-  </tr>
-</table>
-
-
 <image src="github-metrics.svg ">
 
   
