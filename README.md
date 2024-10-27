@@ -40,11 +40,11 @@ That's why any support that can be received from the community is appreciated.
 >
 >💻 | Slimbook executive 16 / I7 13700H 5GHz / 32GB DDR5 5200MT/s / Nvidia RTX 4060 8GB
 >
->🖥️ | Server - Custom build / Ryzen 5 5600G 4.4GHz / 16GB DDR4 3200MT/s
+>🖥️ | Server - Custom build / Ryzen 5 5600G 4.4GHz / 32GB DDR4 3200MT/s
 >
 >🎧 | Sony WH-1000XM4
 >
->⌨️ | Varmilo moonlight va88m (Cherry Silent red)
+>⌨️ | Logitech G915 TKL 
 >
 >🖱️ | Logitech MX Master 2s
 
