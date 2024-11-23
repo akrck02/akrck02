@@ -18,4 +18,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
           plugin_languages_ignored: php
+          plugin_languages_display_limit: 16
           plugin_traffic: yes
