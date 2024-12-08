@@ -11,12 +11,14 @@ I enjoy learning new programming languages and technologies while working on pro
 ## Currently 
 These are the technologies I am working on right now:
 
+> Ktor
 > Godot Engine
 > <br>Spring boot
 
 These are the languages I am learning right now:
 
-> Go
+> Kotlin
+> <br>Go
 > <br>GDscript
 
 
@@ -47,18 +49,6 @@ That's why any support that can be received from the community is appreciated.
 >⌨️ | Logitech G915 TKL 
 >
 >🖱️ | Logitech MX Master 2s
-
-
-## Current project status
-Here are some workflows integrated with github actions for testing, building and compiling:
-
-| Project    | Status |
-|------------|--------|
-| Valhalla | ![Valhalla](https://github.com/akrck02/Valhalla/actions/workflows/release-stable.yml/badge.svg) | 
-| Valhalla core dal | [![building](https://github.com/akrck02/valhalla-core-dal/actions/workflows/publish_version.yaml/badge.svg)](https://github.com/akrck02/valhalla-core-dal/actions/workflows/publish_version.yaml)|
-| Valhalla core sdk | [![building](https://github.com/akrck02/valhalla-core-sdk/actions/workflows/publish_version.yaml/badge.svg)](https://github.com/akrck02/valhalla-core-sdk/actions/workflows/publish_version.yaml)|
-| Valhalla api common | [![building](https://github.com/akrck02/valhalla-api-common/actions/workflows/publish_version.yaml/badge.svg)](https://github.com/akrck02/valhalla-api-common/actions/workflows/publish_version.yaml)|
-| Bubble UI | ![BubbleUI](https://github.com/akrck02/Bubble-UI/actions/workflows/build_and_release.yml/badge.svg) |
 
 
 <!--
