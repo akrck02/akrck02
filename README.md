@@ -12,7 +12,7 @@ I enjoy learning new programming languages and technologies while working on pro
 These are the technologies I am working on right now:
 
 > Ktor
-> Godot Engine
+> <br>Godot Engine
 > <br>Spring boot
 
 These are the languages I am learning right now:
