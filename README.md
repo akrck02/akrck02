@@ -13,14 +13,11 @@ These are the technologies I am working on right now:
 
 > Ktor
 > <br>Godot Engine
-> <br>Spring boot
 
 These are the languages I am learning right now:
 
 > Kotlin
 > <br>Go
-> <br>GDscript
-
 
 
 ## Some stats
