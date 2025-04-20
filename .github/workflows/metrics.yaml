@@ -10,7 +10,7 @@ on:
 
 jobs:
   metrics:
-    runs-on: ubuntu:latest
+    runs-on: ubuntu-latest
     steps:
       - name: Metrics embed
         uses: lowlighter/metrics@latest
