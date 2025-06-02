@@ -35,13 +35,13 @@ Doing open source often means spending time, effort and money to maintain and de
 That's why any support that can be received from the community is appreciated.
 
 ## Hardware
->🖥️ | Desktop - Custom build / Ryzen 7 3700x 4.2GHz / 32GB DDR4 3200MT/s / Radeon RX6700 10GB
+>🖥️ | Desktop - Custom build / Ryzen 7 3700x 4.2GHz / 50GB DDR4 3200MT/s / Radeon RX6700 10GB
 >
 >💻 | Slimbook executive 16 / I7 13700H 5GHz / 32GB DDR5 5200MT/s / Nvidia RTX 4060 8GB
 >
 >🖥️ | Server - Custom build / Ryzen 5 5600G 4.4GHz / 32GB DDR4 3200MT/s
 >
->🎧 | Sony WH-1000XM4
+>🎧 | Sony WH-1000XM5
 >
 >⌨️ | Logitech G915 TKL 
 >
