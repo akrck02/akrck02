@@ -22,3 +22,10 @@ jobs:
           plugin_traffic: yes
           plugin_languages_sections: most-used, recently-used
         
+      - name: Half-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
