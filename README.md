@@ -11,8 +11,9 @@ I enjoy learning new programming languages and technologies while working on pro
 ## Currently 
 These are the technologies I am working on right now:
 
-> Ktor
-> <br>Godot Engine
+> Godot Engine
+> <br>Compose multiplatform
+> <br>GTD / BubbleUI
 
 These are the languages I am learning right now:
 
