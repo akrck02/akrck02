@@ -24,9 +24,9 @@ These are the languages I am learning right now:
 ## Some stats
 Here you have some stats about my activity in Github so you can get to know me a little bit better!
 
-<image src="github-metrics.svg ">
+<image src="github-metrics.svg">
+<image src="metrics.plugin.isocalendar.svg">
 
-  
 ## Open source, happy code.
 I really love open source, I think it allows to learn and improve in development in an organic way and helps to form communities.
 That's why most of my projects are licensed as open source. Feel free to contribute to the repositories if you find any of them interesting! 
