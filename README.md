@@ -20,16 +20,15 @@ These are the languages I am learning right now:
 > Go
 > <br>Kotlin
 
+## Open source.
+I really love open source, I think it allows to learn and improve in development in an organic way and helps to form communities.
+That's why most of my projects are licensed as open source. Feel free to contribute to the repositories if you find any of them interesting! 
 
 ## Some stats
 Here you have some stats about my activity in Github so you can get to know me a little bit better!
 
 <image src="github-metrics.svg">
 <image src="metrics.plugin.isocalendar.svg">
-
-## Open source.
-I really love open source, I think it allows to learn and improve in development in an organic way and helps to form communities.
-That's why most of my projects are licensed as open source. Feel free to contribute to the repositories if you find any of them interesting! 
 
 ## Hardware
 >🖥️ | Desktop - Custom build / Ryzen 7 3700x 4.2GHz / 50GB DDR4 3200MT/s / Radeon RX6700 10GB
